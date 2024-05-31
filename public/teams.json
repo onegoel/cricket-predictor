@@ -1,0 +1,162 @@
+[
+    {
+        "name": "India",
+        "shortName": "IND",
+        "group": "A",
+        "seed": 1,
+        "alpha2": "IN",
+        "super8sGroup": null
+    },
+    {
+        "name": "Pakistan",
+        "shortName": "PAK",
+        "group": "A",
+        "seed": 2,
+        "alpha2": "PK",
+        "super8sGroup": null
+    },
+    {
+        "name": "Ireland",
+        "shortName": "IRE",
+        "group": "A",
+        "seed": 0,
+        "alpha2": "IE",
+        "super8sGroup": null
+    },
+    {
+        "name": "Canada",
+        "shortName": "CAN",
+        "group": "A",
+        "seed": 0,
+        "alpha2": "CA",
+        "super8sGroup": null
+    },
+    {
+        "name": "USA",
+        "shortName": "USA",
+        "group": "A",
+        "seed": 0,
+        "alpha2": "US",
+        "super8sGroup": null
+    },
+    {
+        "name": "England",
+        "shortName": "ENG",
+        "group": "B",
+        "seed": 1,
+        "alpha2": "GB-ENG",
+        "super8sGroup": null
+    },
+    {
+        "name": "Australia",
+        "shortName": "AUS",
+        "group": "B",
+        "seed": 2,
+        "alpha2": "AU",
+        "super8sGroup": null
+    },
+    {
+        "name": "Namibia",
+        "shortName": "NAM",
+        "group": "B",
+        "seed": 0,
+        "alpha2": "NA",
+        "super8sGroup": null
+    },
+    {
+        "name": "Scotland",
+        "shortName": "SCO",
+        "group": "B",
+        "seed": 0,
+        "alpha2": "GB-SCT",
+        "super8sGroup": null
+    },
+    {
+        "name": "Oman",
+        "shortName": "OMA",
+        "group": "B",
+        "seed": 0,
+        "alpha2": "OM",
+        "super8sGroup": null
+    },
+    {
+        "name": "New Zealand",
+        "shortName": "NZ",
+        "group": "C",
+        "seed": 1,
+        "alpha2": "NZ",
+        "super8sGroup": null
+    },
+    {
+        "name": "West Indies",
+        "shortName": "WI",
+        "group": "C",
+        "seed": 2,
+        "alpha2": "WI",
+        "super8sGroup": null
+    },
+    {
+        "name": "Afghanistan",
+        "shortName": "AFG",
+        "group": "C",
+        "seed": 3,
+        "alpha2": "AF",
+        "super8sGroup": null
+    },
+    {
+        "name": "Uganda",
+        "shortName": "UGA",
+        "group": "C",
+        "seed": 0,
+        "alpha2": "UG",
+        "super8sGroup": null
+    },
+    {
+        "name": "Papua New Guinea",
+        "shortName": "PNG",
+        "group": "C",
+        "seed": 0,
+        "alpha2": "PG",
+        "super8sGroup": null
+    },
+    {
+        "name": "South Africa",
+        "shortName": "RSA",
+        "group": "D",
+        "seed": 1,
+        "alpha2": "ZA",
+        "super8sGroup": null
+    },
+    {
+        "name": "Sri Lanka",
+        "shortName": "SL",
+        "group": "D",
+        "seed": 2,
+        "alpha2": "LK",
+        "super8sGroup": null
+    },
+    {
+        "name": "Bangladesh",
+        "shortName": "BAN",
+        "group": "D",
+        "seed": 3,
+        "alpha2": "BD",
+        "super8sGroup": null
+    },
+    {
+        "name": "Netherlands",
+        "shortName": "NED",
+        "group": "D",
+        "seed": 0,
+        "alpha2": "NL",
+        "super8sGroup": null
+    },
+    {
+        "name": "Nepal",
+        "shortName": "NEP",
+        "group": "D",
+        "seed": 0,
+        "alpha2": "NP",
+        "super8sGroup": null
+    }
+]
